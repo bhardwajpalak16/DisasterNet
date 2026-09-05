@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Net",
+  "description": "Offline-First Disaster Communication & Emergency Assistance Platform with BLE peer-to-peer relay, offline maps, and on-device emergency triage.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
